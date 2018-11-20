@@ -1,0 +1,5 @@
+E:\webapi练习\SelfHostWebapi\SelfHostWebapi\bin\Debug\OrderRespostories.dll
+E:\webapi练习\SelfHostWebapi\SelfHostWebapi\bin\Debug\OrderRespostories.pdb
+E:\webapi练习\SelfHostWebapi\OrderRespostories\obj\Debug\OrderRespostories.csprojResolveAssemblyReference.cache
+E:\webapi练习\SelfHostWebapi\OrderRespostories\obj\Debug\OrderRespostories.dll
+E:\webapi练习\SelfHostWebapi\OrderRespostories\obj\Debug\OrderRespostories.pdb

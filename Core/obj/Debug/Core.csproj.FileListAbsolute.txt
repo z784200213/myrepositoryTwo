@@ -1,0 +1,5 @@
+E:\webapi练习\SelfHostWebapi\Core\bin\Debug\Core.dll
+E:\webapi练习\SelfHostWebapi\Core\bin\Debug\Core.pdb
+E:\webapi练习\SelfHostWebapi\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+E:\webapi练习\SelfHostWebapi\Core\obj\Debug\Core.dll
+E:\webapi练习\SelfHostWebapi\Core\obj\Debug\Core.pdb

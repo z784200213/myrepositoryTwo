@@ -1,0 +1,5 @@
+E:\webapi练习\SelfHostWebapi\DataObject\bin\Debug\DataObject.dll
+E:\webapi练习\SelfHostWebapi\DataObject\bin\Debug\DataObject.pdb
+E:\webapi练习\SelfHostWebapi\DataObject\obj\Debug\DataObject.csprojResolveAssemblyReference.cache
+E:\webapi练习\SelfHostWebapi\DataObject\obj\Debug\DataObject.dll
+E:\webapi练习\SelfHostWebapi\DataObject\obj\Debug\DataObject.pdb

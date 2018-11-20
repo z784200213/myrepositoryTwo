@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Net.Http.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Web.dll" /&gt;&#xD;
+  &lt;Assembly Path="E:\webapi练习\SelfHostWebapi\packages\Microsoft.AspNet.WebApi.Core.5.2.3\lib\net45\System.Web.Http.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Net.Http.dll" /&gt;&#xD;
+  &lt;Assembly Path="E:\webapi练习\SelfHostWebapi\packages\Microsoft.AspNet.WebApi.WebHost.5.2.3\lib\net45\System.Web.Http.WebHost.dll" /&gt;&#xD;
+  &lt;Assembly Path="E:\webapi练习\SelfHostWebapi\packages\Microsoft.AspNet.WebApi.SelfHost.5.2.6\lib\net45\System.Web.Http.SelfHost.dll" /&gt;&#xD;
+  &lt;Assembly Path="E:\webapi练习\SelfHostWebapi\packages\Microsoft.AspNet.WebApi.Client.5.2.6\lib\net45\System.Net.Http.Formatting.dll" /&gt;&#xD;
+  &lt;Assembly Path="E:\webapi练习\SelfHostWebapi\packages\Microsoft.AspNet.WebApi.Core.5.2.6\lib\net45\System.Web.Http.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll" /&gt;&#xD;
+  &lt;Assembly Path="E:\webapi练习\SelfHostWebapi\packages\Autofac.3.5.0\lib\net40\Autofac.dll" /&gt;&#xD;
+  &lt;Assembly Path="E:\webapi练习\SelfHostWebapi\packages\Autofac.WebApi2.4.2.0\lib\net45\Autofac.Integration.WebApi.dll" /&gt;&#xD;
+  &lt;Assembly Path="E:\webapi练习\SelfHostWebapi\packages\Microsoft.AspNet.WebApi.Core.5.2.0\lib\net45\System.Web.Http.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,7 @@
+E:\webapi练习\SelfHostWebapi\OrderServiceContact\bin\Debug\OrderServiceContact.dll
+E:\webapi练习\SelfHostWebapi\OrderServiceContact\bin\Debug\OrderServiceContact.pdb
+E:\webapi练习\SelfHostWebapi\OrderServiceContact\bin\Debug\Core.dll
+E:\webapi练习\SelfHostWebapi\OrderServiceContact\bin\Debug\Core.pdb
+E:\webapi练习\SelfHostWebapi\OrderServiceContact\obj\Debug\OrderServiceContact.csprojResolveAssemblyReference.cache
+E:\webapi练习\SelfHostWebapi\OrderServiceContact\obj\Debug\OrderServiceContact.dll
+E:\webapi练习\SelfHostWebapi\OrderServiceContact\obj\Debug\OrderServiceContact.pdb

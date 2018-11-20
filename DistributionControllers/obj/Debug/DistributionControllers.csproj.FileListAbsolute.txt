@@ -1,0 +1,5 @@
+E:\webapi练习\SelfHostWebapi\SelfHostWebapi\bin\Debug\DistributionControllers.dll
+E:\webapi练习\SelfHostWebapi\SelfHostWebapi\bin\Debug\DistributionControllers.pdb
+E:\webapi练习\SelfHostWebapi\DistributionControllers\obj\Debug\DistributionControllers.csprojResolveAssemblyReference.cache
+E:\webapi练习\SelfHostWebapi\DistributionControllers\obj\Debug\DistributionControllers.dll
+E:\webapi练习\SelfHostWebapi\DistributionControllers\obj\Debug\DistributionControllers.pdb
